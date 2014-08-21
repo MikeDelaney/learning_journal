@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/lfritts/learning_journal.png)](https://travis-ci.org/lfritts/learning_journal)
+[![Build Status](https://travis-ci.org/MikeDelaney/learning_journal.svg?branch=fixes)](https://travis-ci.org/MikeDelaney/learning_journal)
 
 learning_journal
 ================
